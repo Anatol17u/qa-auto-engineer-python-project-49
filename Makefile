@@ -10,3 +10,6 @@ build: # Собираем проект/ Выполняет сборку ново
 
 package-install: # Устанавливаем пакет в операционную систему
 	uv tool install dist/*.whl
+
+lint: # Проверяем на ошибки
+	uv run ruff check brain_games
