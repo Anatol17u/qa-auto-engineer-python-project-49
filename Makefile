@@ -15,3 +15,5 @@ lint: # Проверяем на ошибки
 	uv run ruff check brain_games
 brain-even: # Запускаем игру 
 	uv run brain-even
+brain-calc:
+	uv run brain-calc
