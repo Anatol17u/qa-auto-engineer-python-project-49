@@ -12,3 +12,4 @@ def get_question_and_answer():
     question = str(number)
     correct_answer = 'yes' if is_even(number) else 'no'
     return question, correct_answer
+
