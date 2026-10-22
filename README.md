@@ -30,6 +30,7 @@ cd qa-auto-engineer-python-project-49
 [Демонстрация игры "НОД"](https://asciinema.org/a/1269447) 
 ---
 [Демонстрация игры "Арифметическая прогрессия"](https://asciinema.org/a/1269493)
+---
 <details>
 
 <summary>Автоматические тесты Хекслета</summary>
