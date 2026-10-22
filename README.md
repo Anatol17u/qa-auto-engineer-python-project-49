@@ -23,9 +23,9 @@ cd qa-auto-engineer-python-project-49
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-<a href="https://asciinema.org/a/1269295" target="_blank"><img src="https://asciinema.org/a/1269295.svg" /></a>
+[![asciicast](https://asciinema.org/a/1269295.svg)](https://asciinema.org/a/1269295)
 ---
- [![asciicast](https://asciinema.org/a/1f2hZwbDaVI601oq.svg)](https://asciinema.org/a/1f2hZwbDaVI601oq)
+[![asciicast](https://asciinema.org/a/1268473.svg)](https://asciinema.org/a/1268473)
 ---
 [![asciicast](https://asciinema.org/a/1269447.svg)](https://asciinema.org/a/1269447) 
 ---
