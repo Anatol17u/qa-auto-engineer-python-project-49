@@ -23,14 +23,15 @@ cd qa-auto-engineer-python-project-49
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-[![asciicast](https://asciinema.org/a/1269295.svg)](https://asciinema.org/a/1269295)
+[Демонстрация игры "Проверка на чётность"](https://asciinema.org/a/1269295)
 ---
-[![asciicast](https://asciinema.org/a/1268473.svg)](https://asciinema.org/a/1268473)
+[Демонстрация игры "Калькулятор"](https://asciinema.org/a/1268473)
 ---
-[![asciicast](https://asciinema.org/a/1269447.svg)](https://asciinema.org/a/1269447) 
+[Демонстрация игры "НОД"](https://asciinema.org/a/1269447) 
 ---
-[![asciicast](https://asciinema.org/a/1269493.svg)](https://asciinema.org/a/1269493)
+[Демонстрация игры "Арифметическая прогрессия"](https://asciinema.org/a/1269493)
 <details>
+
 <summary>Автоматические тесты Хекслета</summary>
 
 Тесты запускаются на каждый коммит. За запуск отвечает файл `.github/workflows/hexlet-check.yml` — не удаляйте и не переименовывайте ни его, ни репозиторий.
