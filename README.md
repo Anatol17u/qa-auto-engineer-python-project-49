@@ -25,7 +25,9 @@ cd qa-auto-engineer-python-project-49
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 [![asciicast](https://asciinema.org/a/CF1ESILJgXPGHLAJ.svg)](https://asciinema.org/a/CF1ESILJgXPGHLAJ)
 ---
-
+ [![asciicast](https://asciinema.org/a/1f2hZwbDaVI601oq.svg)](https://asciinema.org/a/1f2hZwbDaVI601oq)
+---
+[![asciicast](https://asciinema.org/a/1269447.svg)](https://asciinema.org/a/1269447) 
 <details>
 <summary>Автоматические тесты Хекслета</summary>
 
