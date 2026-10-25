@@ -31,6 +31,8 @@ cd qa-auto-engineer-python-project-49
 ---
 [Демонстрация игры "Арифметическая прогрессия"](https://asciinema.org/a/1269493)
 ---
+[Демонстрация игры "Арифметическая простые числа"](https://asciinema.org/a/1269792)
+---
 <details>
 
 <summary>Автоматические тесты Хекслета</summary>
