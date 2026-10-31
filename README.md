@@ -1,4 +1,5 @@
 # Игры разума (Python)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=Anatol17u_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Anatol17u_qa-auto-engineer-python-project-49)
 
 [![hexlet-check](https://github.com/Anatol17u/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Anatol17u/qa-auto-engineer-python-project-49/actions)
 
