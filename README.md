@@ -9,20 +9,37 @@
 
 ## Стек
 
-- Python
+- Python (версия 3.12 или выше)
+- Пакетный менеджер 'uv' если он не устанволениспользуйте инструкцию: https://docs.astral.sh/uv/getting-started/installation/
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+1. Склонируйте репозиторий:
 
-```bash
 git clone https://github.com/Anatol17u/qa-auto-engineer-python-project-49.git
 cd qa-auto-engineer-python-project-49
-```
+
+2. Установите зависимости: 
+make install
+3. Соберите и установите пакет в систему: 
+make build
+make package-install
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+Запуск игр
+После установки пакета, игры можно запускать из любого места в терминале:
+
+Проверка на чётность: brain-even
+
+Калькулятор: brain-calc
+
+НОД: brain-gcd
+
+Арифметическая прогрессия: brain-progression
+
+Простые числа: brain-prime
+
 [Демонстрация игры "Проверка на чётность"](https://asciinema.org/a/1269295)
 ---
 [Демонстрация игры "Калькулятор"](https://asciinema.org/a/1268473)
@@ -31,7 +48,7 @@ cd qa-auto-engineer-python-project-49
 ---
 [Демонстрация игры "Арифметическая прогрессия"](https://asciinema.org/a/1269493)
 ---
-[Демонстрация игры "Арифметическая простые числа"](https://asciinema.org/a/1269792)
+[Демонстрация игры "Простые числа"](https://asciinema.org/a/1269792)
 ---
 <details>
 
