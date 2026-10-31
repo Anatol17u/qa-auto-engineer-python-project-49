@@ -8,6 +8,10 @@ dependencies = [
     "prompt>=0.4.1",
 ]
 
+authors = [
+    {name = "Anatoly", email = "anatol17u@gmail.com"},
+]
+
 [dependency-groups]
 dev = [
     "ruff>=0.17.0",
